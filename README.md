@@ -1,1 +1,1 @@
-This project is about shell basics
+Shell, I/O Redirections and Filters
