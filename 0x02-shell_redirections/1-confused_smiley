@@ -1,2 +1,2 @@
 #!/bin/bash
-echo echo 😀
+echo ':)' ; else echo ':('; fi
