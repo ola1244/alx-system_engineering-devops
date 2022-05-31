@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$dpath
+wc -l
