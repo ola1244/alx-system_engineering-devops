@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "($user hello MyUser)"
+echo '($user) $(hello user)'
