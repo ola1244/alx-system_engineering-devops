@@ -1,3 +1,2 @@
-export NUM=0
 #!/bin/bash
 echo '%.2f\n' $SUM
